@@ -1,0 +1,28 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    width: 100%;
+    margin: 0px;
+    color: black;
+    font-size: 40px ! important;
+}
+
+#status , #no{
+    font-size: 18px;
+}
+
+canvas {
+    border: black 5px solid;
+    box-shadow: rgb(0, 180, 180) 5px 5px 15px;
+    font-family: 'Otomanopee One', sans-serif;
+    margin-top: 30px;
+}
+
+.btn {
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+}
